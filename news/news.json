@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "id": 2,
+      "slug": "eww",
+      "title": "dsdsd",
+      "excerpt": "dsdsddsd",
+      "imageUrl": "https://www.minecraft.net/etc.clientlibs/minecraft/clientlibs/main/resources/favicon.ico",
+      "imageAlt": "dsdsd",
+      "sourceUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPy3-O6m4xd0vuDrVqWVb3VkWOxaKIH1Hs89zovqF--g&s=10",
+      "publishedAt": 1789300800000,
+      "updatedAt": 1789318662033
+    },
+    {
+      "id": 1,
+      "slug": "dfgggffgfg",
+      "title": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Homepage_Discover-our-games_MC-Vanilla-KeyArt_864x864.jpg",
+      "excerpt": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Homepage_Discover-our-games_MC-Vanilla-KeyArt_864x864.jpg",
+      "imageUrl": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Homepage_Discover-our-games_MC-Vanilla-KeyArt_864x864.jpg",
+      "imageAlt": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Homepage_Discover-our-games_MC-Vanilla-KeyArt_864x864.jpg",
+      "sourceUrl": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Homepage_Discover-our-games_MC-Vanilla-KeyArt_864x864.jpg",
+      "publishedAt": 1786449600000,
+      "updatedAt": 1789318197789
+    }
+  ]
+}
