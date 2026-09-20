@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": 6,
+      "slug": "phazeclient1point1and1214",
+      "title": "Phaze Client Release v.1.1!",
+      "excerpt": "Added Cosmetics, cloud-based configs, hud rounded corners, hud gradient, more settings, new color picker, fixed bugs.",
+      "imageUrl": "https://raw.githubusercontent.com/Nomadvorga/phaze-launcher-news/main/news/images/phazeclient1point1and1214.jpg",
+      "imageAlt": "Phaze Client Release v.1.1!",
+      "sourceUrl": "https://t.me/PhazeClient/52",
+      "publishedAt": 1785499200000,
+      "updatedAt": 1789919043702
+    },
+    {
       "id": 5,
       "slug": "phazeclientrelease",
       "title": "Phaze Client beta release!",
