@@ -2,14 +2,14 @@
   "items": [
     {
       "id": 5,
-      "slug": "phazeclientupdate",
-      "title": "in-launcher news",
-      "excerpt": "in-launcher news",
-      "imageUrl": "https://raw.githubusercontent.com/Nomadvorga/phaze-launcher-news/main/news/images/phazeclientupdate.png",
-      "imageAlt": "in-launcher news",
-      "sourceUrl": "https://t.me/PhazeClient",
-      "publishedAt": 1789560000000,
-      "updatedAt": 1789583821197
+      "slug": "phazeclientrelease",
+      "title": "Phaze Client beta release!",
+      "excerpt": "Official beta release of Phaze Client for Minecraft 1.21.4!",
+      "imageUrl": "https://raw.githubusercontent.com/Nomadvorga/phaze-launcher-news/main/news/images/phazeclientrelease.png",
+      "imageAlt": "Phaze Client beta release!",
+      "sourceUrl": "https://t.me/PhazeClient/13",
+      "publishedAt": 1781784000000,
+      "updatedAt": 1789917156074
     }
   ]
 }
